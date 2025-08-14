@@ -1,1 +1,1 @@
-# javascript-project3
+# BMI Calculator
